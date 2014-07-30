@@ -1,4 +1,4 @@
 cakephp-form-validator
 ======================
 
-html forms validator for cakephp
+Validator html-forms for CakePHP 
